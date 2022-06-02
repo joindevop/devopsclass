@@ -1,2 +1,3 @@
 Hello 
 my first file in git
+second lin
